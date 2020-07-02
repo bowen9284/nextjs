@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport User from '../../components/User';\n\nconst authIndexPage = () => __jsx(\"div\", null, __jsx(\"h1\", null, \"The Auth Index Page\"), __jsx(User, {\n  name: \"Matt\",\n  age: 80\n}));\n\nexport default authIndexPage;","map":null,"metadata":{},"sourceType":"module"}
